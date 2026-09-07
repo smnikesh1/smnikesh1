@@ -1,16 +1,87 @@
-## Hi there 👋
+# Hi, I'm Sairam Nikesh 👋
 
-<!--
-**smnikesh1/smnikesh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Python Developer | 📊 Data Analyst | ☁️ AWS Cloud Enthusiast
 
-Here are some ideas to get you started:
+Computer Science postgraduate focused on **Python Development, Data Analytics, Business Intelligence, and AWS Cloud**. I enjoy building practical projects and using technology and data to create useful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+Python • Java • C# • SQL • HTML • CSS
+
+**Data & Analytics:**  
+Advanced Excel • Power BI • Pandas • NumPy • Data Cleaning • Data Analysis
+
+**Cloud:**  
+AWS • EC2 • S3 • IAM • VPC • Lambda • RDS
+
+**Tools & Technologies:**  
+Git • GitHub • Docker • Jenkins • Postman
+
+---
+
+## 🏆 Certifications & Experience
+
+- ☁️ **AWS Certified Cloud Practitioner**
+- 🎓 **MSc Computer Science**
+- 🐍 **Advanced Python Development**
+- 📊 **Advanced Excel & Power BI**
+- 💼 **Python Developer Internship**
+- 🔐 **Cyber Security Internship**
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Data Analytics & Business Intelligence
+
+- **Career Intelligence for Job Seekers** — Advanced Excel
+- **Predictive Analytics Using Historical Data** — Python
+- **Data Cleaning & Reporting Automation** — Python
+- **Power BI Data Analysis** — Power BI
+
+### 🐍 Advanced Python Projects
+
+- **GUI Application** — Python
+- **Speech Recognition Application** — Python
+- **QR Code Generator** — Python
+- **Moving Train Animation** — Python
+
+### 🌐 Networking & Programming
+
+- **Client–Server Application** — Python
+
+---
+
+## 🌱 Currently Learning
+
+- 📊 Data Analytics
+- 📈 Power BI
+- 📗 Advanced Excel
+- 🐍 Advanced Python
+- ☁️ AWS Cloud
+- 🤖 Generative AI
+
+---
+
+## 💡 Areas of Interest
+
+- Data Analytics & Business Intelligence
+- Python Development
+- Cloud Computing
+- Automation
+- AI & Generative AI
+
+---
+
+## 🤝 Connect With Me
+
+💼 **LinkedIn:** www.linkedin.com/in/sairamnikesh
+
+📧 **Email:** smnikesh1@gmail.com
+
+---
+
+⭐ Feel free to explore my repositories and projects!
